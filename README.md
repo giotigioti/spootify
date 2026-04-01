@@ -4,4 +4,5 @@
 *  go to [exportify](https://exportify.net/) to export your csv file for your playlist
 *  go to [tunemymusic](https://www.tunemymusic.com/) to transfer a spotify playlist to youtube music
 *  run the alias you set earlier
-*  run the attached pythin script to convert the csv to m3u for ncmpcpp
+*  run the attached python script to convert the csv to m3u for ncmpcpp
+* use the default off 1 for the title names for ncmcpp
